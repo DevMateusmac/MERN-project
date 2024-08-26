@@ -1,0 +1,24 @@
+.authentication__header {
+  color: white;
+  text-align: center;
+}
+
+.authentication {
+  width: 90%;
+  max-width: 25rem;
+  margin: 7rem auto;
+  text-align: center;
+}
+
+.authentication form {
+  margin: 1rem;
+}
+
+.authentication hr {
+  margin: 1rem;
+  color: red;
+}
+
+.switchButton{
+  margin-bottom: .8rem;
+}
